@@ -1,2 +1,2 @@
 # ai_api
-AI API 활용 웹
+AI API 활용 웹앱
